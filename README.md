@@ -42,6 +42,7 @@ Feel free to explore the code and adapt it for your projects. Here's a brief gui
 
 ## Note:
 - The notebook includes the code needed to scrap the website and therefore create the dataset before starting to clean it etc... If you need the ready dataset you can download the .csv file directly and use it.
+- The insights displayed in dataprep's report are not visible in the github preview you would need to download the notebook to see them
 
 ## Future Updates
 
