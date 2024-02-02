@@ -40,7 +40,7 @@ Feel free to explore the code and adapt it for your projects. Here's a brief gui
 3. Explore the Jupyter Notebooks for detailed insights into each phase.
 4. Run the scripts to replicate the analysis.
 
-##Note:
+## Note:
 - The notebook includes the code needed to scrap the website and therefore create the dataset before starting to clean it etc... If you need the ready dataset you can download the .csv file directly and use it.
 
 ## Future Updates
